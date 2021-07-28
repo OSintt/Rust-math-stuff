@@ -1,5 +1,5 @@
 fn main() {
-	let numero: i64 = 7;
+	let numero: i64 = 100;
 	let mut vec = Vec::new();
 
 	for i in 0..numero {

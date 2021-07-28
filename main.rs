@@ -12,8 +12,8 @@ impl Triangulo {
 
 fn main() {
 	let new_tr = Triangulo {
-		cateto1: 20.0,
-		cateto2: 30.0,
+		cateto1: 40.0,
+		cateto2: 8123.0,
 	};
 
 	println!("La hiportenusa de este triángulo es: {:?}", new_tr.get_hipotenusa());
